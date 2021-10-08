@@ -11,6 +11,7 @@ terraform {
         container_name       = "contenerbriefoctober"
         key                  = "terraform.tfstate"
     }
+    
 }
 
 # provider "azurerm" {
